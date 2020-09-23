@@ -1,0 +1,3 @@
+[submodule "SVM_Flask"]
+	path = SVM_Flask
+	url = https://github.com/BALaka-18/SVM_Flask
