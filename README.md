@@ -1,4 +1,7 @@
 # SVM VISUAL TOOL : A VISUALIZATION TOOL TO HELP STUDENTS UNDERSTAND SUPPORT VECTOR MACHINES BETTER.
+
+YOUTUBE VIDEO LINK : [Watch it here - Support Vector Machine Visualizer](https://www.youtube.com/watch?v=LYzz-CHEXD0)
+
 Support Vector Machines is one of the most famous supervised learning algorithms in Data Science.
 However, understanding how hyperparameters can affect the performance of this algorithm is quite tricky for a beginner.
 
