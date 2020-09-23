@@ -1,5 +1,7 @@
 # SVM VISUAL TOOL : A VISUALIZATION TOOL TO HELP STUDENTS UNDERSTAND SUPPORT VECTOR MACHINES BETTER.
 
+VISIT THE WEB APP HERE : [Welcome to the SVM Visual Tool(SVM VT)](https://svm-main.herokuapp.com/)
+
 YOUTUBE VIDEO LINK : [Watch it here - Support Vector Machine Visualizer](https://www.youtube.com/watch?v=LYzz-CHEXD0)
 
 Support Vector Machines is one of the most famous supervised learning algorithms in Data Science.
@@ -34,7 +36,5 @@ Tech stack :
 Frontend : HTML, CSS, Bootstrap, Flask.
 
 Backend : Dash, Python.
-
-VISIT THE WEB APP HERE : [Welcome to the SVM Visual Tool(SVM VT)](https://svm-main.herokuapp.com/)
 
 ________________________________________________________________________________________________________________________________________________________________________________
